@@ -1,0 +1,43 @@
+body {
+    font-family: Times New Roman, Times, serif;
+    background-color: ivary;
+    margin: 20px;
+}
+
+h1 {
+    color: purple;
+    font-family: cursive;
+}
+
+h2 {
+    text-align: center;
+    color: #4b2763;
+}
+
+hr {
+    border: 1px solid #9b59b6;
+}
+
+.content {
+    background-color: #D0E0D6;
+    padding: 16px;
+    border: 2px solid #607ebc;
+    border-radius: 15px;
+    margin: 10px 0;
+}
+
+.content img {
+    border: 2px solid #607ebc;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+audio {
+    margin: 12px 0;
+    max-width: 100%;
+}
+
+video {
+    margin: 12px 5px;
+    max-width: 100%;
+}
